@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'opyrator'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_b0eac0e1746c4a20a3c2e7ed112ec422 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_eda962a7ae3b45ff8826f4a44d5028e0 }}
